@@ -6,7 +6,7 @@
 
 ## Installing
 
-###### The APK file can be downloaded at https://drive.google.com/open?id=1E0BXq4RyKH3EcTcEJ5wZSTUsxcNULVEs
+###### The APK file can be downloaded at https://drive.google.com/open?id=1IfOBvpmxmDA9Y0ZI60IfNQ3so35BCbQc
 
 ## Built With
 
